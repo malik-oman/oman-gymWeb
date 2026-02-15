@@ -1,16 +1,54 @@
-# React + Vite
+# 🏋️ Oman Gym Web
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive Gym Website built using **React.js** and **Tailwind CSS**.  
+This project represents a clean and professional fitness landing page with smooth UI and responsive design.
 
-Currently, two official plugins are available:
+<img width="1900" height="940" alt="image" src="https://github.com/user-attachments/assets/3a8a23c3-df52-471b-91a8-6eb9e8620ae2" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
+## 🚀 Live Demo
+🔗 https://oman-gymweb.netlify.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📂 GitHub Repository
+🔗 https://github.com/malik-oman/oman-gymWeb
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- React.js
+- Tailwind CSS
+- JavaScript (ES6+)
+- Responsive Design
+- Netlify (Deployment)
+
+---
+
+## ✨ Features
+
+- Modern Gym Landing Page
+- Fully Responsive Design
+- Clean and Minimal UI
+- Fast Loading Performance
+- Organized Folder Structure
+- Reusable Components
+
+---
+
+## 📸 Sections Included
+
+- Hero Section
+- About Section
+- Training Programs
+- Pricing Plans
+- Contact Section
+- Footer
+
+---
+
+## ⚙️ Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/malik-oman/oman-gymWeb.git
